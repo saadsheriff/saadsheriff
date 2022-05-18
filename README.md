@@ -2,7 +2,7 @@
 
 Computer Science student at Purdue University with a wide range of interests. Exploring further academic fields to pursue a second major in; currently looking at Mathematics, Data Science, Statistics, Electrical Engineering, and Philosophy. 
 
-Un-updated Github, working on populating it this summer. Currently learning Machine Learning (Deep Reinforcement Learning in particular) and all things Web. Interested in opportunities in Software Engineering, Data Engineering and Quantitative Finance. Feel free to reach out to me @ saadsharief1@gmail.com!  
+Un-updated Github, working on populating it this summer. Currently learning Machine Learning (Deep Reinforcement Learning in particular) and all things Web. Interested in opportunities in Software Engineering, Data Engineering and Quantitative Finance. Feel free to reach out to me at saadsharief1@gmail.com!  
 
 literally me ,,,,
 
