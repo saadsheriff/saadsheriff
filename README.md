@@ -8,7 +8,7 @@ literally me ,,,,
 
 ![alt text](https://github.com/saadsheriff/saadsheriff/blob/main/hackerman.jpg?raw=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadsheriff&count_private=true)](https://github.com/saadsheriff/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadsheriff&count_private=true)
 
 this is wrong a lot of my repos are private (capitalism (and school stuff I unfortunately cant share))
 
