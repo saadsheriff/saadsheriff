@@ -2,11 +2,9 @@
 
 Computer Science student at Purdue University.
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadsheriff&count_private=true)
 
-this is wrong a lot of my repos are private (capitalism (and school stuff I unfortunately cant share))
-
-<!--
 **saadsheriff/saadsheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
